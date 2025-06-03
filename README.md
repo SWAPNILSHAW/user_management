@@ -52,25 +52,24 @@ This app demonstrates a fully-featured **User Management System** consuming the 
 
 ---
 
-| 📋 User List | 🔍 Search User |
-|-------------|----------------|
-| <img src="screenshots/user_list.jpg" width="300"/> | <img src="screenshots/search_user.jpg" width="300"/> |
+| 📋 User List | 🔍 Search User | 👤 User Details |
+|-------------|----------------|----------------|
+| <img src="screenshots/user_list.jpg" width="300"/> | <img src="screenshots/search_user.jpg" width="300"/> |<img src="screenshots/user_details.jpg" width="300"/> |
 
-| 👤 User Details | ➕ Create Post |
+| 👤 Local post list | ➕ Create Post |
 |----------------|----------------|
-| <img src="screenshots/user_details.jpg" width="300"/> | <img src="screenshots/create_post.jpg" width="300"/> |
-
-| 👤 Local post list |
-|----------------|
-| <img src="screenshots/local_post_list.jpg" width="300"/> |
-
-
+| <img src="screenshots/local_post_list.jpg" width="300"/> | <img src="screenshots/create_post.jpg" width="300"/> |
 
 ---
 
 ## 🎞️ Demo 
 
 [📽️ Watch Demo (MP4)](https://github.com/SWAPNILSHAW/user_management/blob/main/screenshots/demo.gif)
+
+## 📥 Download
+
+[⬇️ User_Management.apk](https://github.com/SWAPNILSHAW/user_management/blob/main/user_management.apk)
+
 
 
 # 🏗️ Architecture
