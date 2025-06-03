@@ -56,13 +56,16 @@ This app demonstrates a fully-featured **User Management System** consuming the 
 
 | 📋 User List | 🔍 Search User |
 |-------------|----------------|
-| ![User List](screenshots/user_list.png) | ![Search User](screenshots/search_user.png) |
+| ![User List](screenshots/user_list.jpg) | ![Search User](screenshots/search_user.jpg) |
 
 | 👤 User Details | ➕ Create Post |
 |----------------|----------------|
-| ![User Details](screenshots/user_details.png) | ![Create Post](screenshots/create_post.png) |
+| ![User Details](screenshots/user_details.jpg) | ![Create Post](screenshots/create_post.jpg) |
 
-> 📸 Place your PNG/JPG images in the `/screenshots` folder and ensure the paths match.
+| 👤 Local post list | 
+|----------------|
+| ![User Details](screenshots/local_post_list.jpg) | 
+
 
 ---
 
@@ -71,7 +74,7 @@ This app demonstrates a fully-featured **User Management System** consuming the 
 You can record a short demo of your app using tools like OBS Studio or a screen recording app and include a GIF preview here:
 
 ```markdown
-![App Demo](screenshots/demo.gif)
+![App Demo](screenshots/demo.mp4)
 ```
 
 # 🏗️ Architecture
