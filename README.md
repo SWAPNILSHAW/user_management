@@ -69,9 +69,7 @@ This app demonstrates a fully-featured **User Management System** consuming the 
 
 ---
 
-## 🎞️ Demo (Optional)
-
-You can record a short demo of your app using tools like OBS Studio or a screen recording app and include a GIF preview here:
+## 🎞️ Demo 
 
 ```markdown
 ![App Demo](screenshots/demo.mp4)
