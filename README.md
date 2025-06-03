@@ -72,7 +72,7 @@ This app demonstrates a fully-featured **User Management System** consuming the 
 ## 🎞️ Demo 
 
 ```markdown
-![App Demo](screenshots/demo.mp4)
+![App Demo](screenshots/demo.gif)
 ```
 
 # 🏗️ Architecture
