@@ -52,28 +52,26 @@ This app demonstrates a fully-featured **User Management System** consuming the 
 
 ---
 
-## 🖼️ Screenshots
-
 | 📋 User List | 🔍 Search User |
 |-------------|----------------|
-| ![User List](screenshots/user_list.jpg) | ![Search User](screenshots/search_user.jpg) |
+| <img src="screenshots/user_list.jpg" width="300"/> | <img src="screenshots/search_user.jpg" width="300"/> |
 
 | 👤 User Details | ➕ Create Post |
 |----------------|----------------|
-| ![User Details](screenshots/user_details.jpg) | ![Create Post](screenshots/create_post.jpg) |
+| <img src="screenshots/user_details.jpg" width="300"/> | <img src="screenshots/create_post.jpg" width="300"/> |
 
-| 👤 Local post list | 
+| 👤 Local post list |
 |----------------|
-| ![User Details](screenshots/local_post_list.jpg) | 
+| <img src="screenshots/local_post_list.jpg" width="300"/> |
+
 
 
 ---
 
 ## 🎞️ Demo 
 
-```markdown
-![App Demo](screenshots/demo.gif)
-```
+[📽️ Watch Demo (MP4)](https://github.com/SWAPNILSHAW/user_management/blob/main/screenshots/demo.gif)
+
 
 # 🏗️ Architecture
 Built on Clean Architecture principles for modularity, testability, and scalability:
